@@ -1,0 +1,25 @@
+body{
+    margin: 50px;
+    text-align: center;
+}
+h1 {
+display: inline;
+}
+
+.button-container {
+margin-top: 20px;
+}
+
+#getDataButton:hover{
+    cursor: pointer;
+    background-color: rgb(27, 27, 27);
+}
+
+#getDataButton{
+background-color: black;
+color: white;
+padding: 10px 50px;
+border-radius: 10px;
+border: 2px solid black;
+font-size: x-large;
+}
